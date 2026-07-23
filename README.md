@@ -70,7 +70,7 @@ The Tableau dashboard includes:
 
 ### Dashboard 1
 
-![Dashboard 1](Dashboard/Dashboard 1.png)
+[Dashboard 1](Dashboard/dashboard 1.png)
 
 ### Dashboard 2
 
