@@ -69,11 +69,11 @@ The Tableau dashboard includes:
 ## Dashboard Preview
 
 ### Dashboard 1
-[Dashboard 1](Dashboard/Dashboard_1.png)
+[Dashboard 1](Dashboard_1.png)
 
 ### Dashboard 2
 
-[Dashboard 2](Dashboard/Dashboard_2.png)
+[Dashboard 2](Dashboard_2.png)
 
 
 ##  Project Structure
