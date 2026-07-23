@@ -41,7 +41,7 @@ The dataset includes:
 - Revenue Data
 
 
-## 💻 SQL Analysis
+## SQL Analysis
 
 The project includes SQL queries for:
 
@@ -55,7 +55,7 @@ The project includes SQL queries for:
 - Top Selling Products
 - Brand Performance
 
-## 📊 Tableau Dashboard
+## Tableau Dashboard
 
 The Tableau dashboard includes:
 
@@ -66,7 +66,7 @@ The Tableau dashboard includes:
 - Inventory Status
 - Product Performance
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 
 ### Dashboard 1
 [Dashboard 1](Dashboard/Dashboard_1.png)
